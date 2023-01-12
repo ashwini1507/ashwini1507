@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Ashwini, self motivated IT professional having 1.3 years of work experience, practicing Data Science and Machine Learning since 6 months and worked on Web Scraping, Exploaratory Data Analysis projects using real-time dataset, willing to use my experience and new learnt skills to contribute the organizations growth. 
+
 <!--
 **ashwini1507/ashwini1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
