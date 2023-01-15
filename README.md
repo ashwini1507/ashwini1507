@@ -3,7 +3,7 @@
 I am Ashwini, quick learning IT professional having 1.3 years of work experience, practicing Data Science and Machine Learning since 6 months and worked on Web Scraping, Exploaratory Data Analysis projects using real-time dataset, willing to use my experience and new learnt skills to contribute the organizations growth.
 
 You can reach me out : 
-[LinkedIn](https://www.linkedin.com/in/ashwinishetti) | [Medium](https://medium.com/@ashwinishetti15)
+[LinkedIn](https://www.linkedin.com/in/ashwinishetti) | [Medium](https://medium.com/@ashwinishetti)
 
 ### :woman_student:Education 
 :diamond_shape_with_a_dot_inside: Data Science & Machine Learning Bootcamp, Jovian (May 2022 - Ongoing)
